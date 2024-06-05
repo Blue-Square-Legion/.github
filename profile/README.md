@@ -17,8 +17,8 @@ We are Blue Square Legion from P1
 ## Projects
 Here is a list of projects we have worked on:
 
-- Keito
-- Eco Defender
+- [Keito](https://sam325.itch.io/keito-game)
+- [Eco Defender](https://light-with-blocks.itch.io/eco-defender)
 
 ## Members
 
