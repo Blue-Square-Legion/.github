@@ -1,0 +1,25 @@
+name: Playtest Feedback
+description: Feedback report
+title: "[FEEDBACK]: "
+labels: ["feedback"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report 🤗
+        
+  - type: textarea
+    id: feedback-description
+    attributes:
+      label: Provide your feedback
+      description: Give us a description of your playthrough of the game.
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: |
+        Provide any additional information.

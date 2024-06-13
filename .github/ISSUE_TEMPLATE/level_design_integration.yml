@@ -1,0 +1,27 @@
+name: Level Design Implementation
+description: Add or update level
+title: "[LEVEL]: "
+labels: ["game-design"]
+assignees: []
+body:   
+  - type: textarea
+    id: level-description
+    attributes:
+      label: Description of what will be added or updated
+      description: Give us a brief description of what kind of level will be added into the game.
+    validations:
+      required: true
+  - type: textarea
+    id: scene-description
+    attributes:
+      label: Description of the scene/level to be added or edited
+      description: Give a rough idea of what the level will look like at the end of development.
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: |
+        Provide any additional information such as screenshots, reference cards, etc.
