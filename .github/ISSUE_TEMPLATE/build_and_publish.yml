@@ -1,0 +1,12 @@
+name: Build and Publish
+description: Create a build of the game and publish it
+title: "[DEPLOY]: "
+labels: []
+assignees: []
+body:         
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information (optional)
+      description: |
+        Provide any additional information if needed for building and/or publishing
