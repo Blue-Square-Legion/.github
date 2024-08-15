@@ -11,19 +11,28 @@
 
 # Blue Square Legion
 
-We are Blue Square Legion from P1
+We the Blue Square Legion from [P1 Games](https://p1games.com/). We are a collection of teams working together to empower each other and develop fun games.
 
 
 ## Projects
-Here is a list of projects we have worked on:
+Here is a list of projects we have worked on and published to Itch.io:
 
 - [Keito](https://sam325.itch.io/keito-game)
+  - GitHub: <https://github.com/Blue-Square-Legion/Keito-Yarn-Game>
 - [Eco Defender](https://light-with-blocks.itch.io/eco-defender)
+  - GitHub: <https://github.com/Blue-Square-Legion/Eco-Defender>
+- [Food Jam: Attack of the Munchies](https://jyama.itch.io/food-jam-attack-of-the-munchies)
+  - GitHub: <https://github.com/Blue-Square-Legion/Munchies>
+- Frostblade Saga
+  - GitHub: <https://github.com/Blue-Square-Legion/Frostblade-Saga>
+- Team RedFish
+  - GitHub: <https://github.com/Blue-Square-Legion/Team-Redfish>
 
 ## Members
+List of Members who are working or have worked in the Blue Square Legion.
 
-## Active
+### Active
+- TODO
 
-
-## Project Alums
-
+### Project Alums
+- TODO
