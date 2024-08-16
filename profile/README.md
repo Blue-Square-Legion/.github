@@ -25,8 +25,8 @@ Here is a list of projects we have worked on and published to Itch.io:
   - GitHub: <https://github.com/Blue-Square-Legion/Munchies>
 - Frostblade Saga
   - GitHub: <https://github.com/Blue-Square-Legion/Frostblade-Saga>
-- Team RedFish
-  - GitHub: <https://github.com/Blue-Square-Legion/Team-Redfish>
+- Roller Girl
+  - GitHub: <https://github.com/Blue-Square-Legion/Roller-Girl>
 
 ## Members
 List of Members who are working or have worked in the Blue Square Legion.
