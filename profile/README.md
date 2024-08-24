@@ -11,8 +11,9 @@
 
 # Blue Square Legion
 
-We the Blue Square Legion from [P1 Games](https://p1games.com/). We are a collection of teams working together to empower each other and develop fun games.
+We the Blue Square Legion from [P1 Games](https://p1games.com/). We are a collection of teams working together to empower each other and develop fun games. 
 
+[Organization Miro board](https://miro.com/app/board/uXjVKp0fRwc=/?share_link_id=837323564677)
 
 ## Projects
 Here is a list of projects we have worked on and published to Itch.io:
@@ -23,9 +24,9 @@ Here is a list of projects we have worked on and published to Itch.io:
   - GitHub: <https://github.com/Blue-Square-Legion/Eco-Defender>
 - [Food Jam: Attack of the Munchies](https://jyama.itch.io/food-jam-attack-of-the-munchies)
   - GitHub: <https://github.com/Blue-Square-Legion/Munchies>
-- Frostblade Saga
+- [Frostblade Saga](https://ivinzzzz.itch.io/frostblade-sagaz)
   - GitHub: <https://github.com/Blue-Square-Legion/Frostblade-Saga>
-- Roller Girl
+- [Roller Girl](https://polysplitter.itch.io/rollergirl)
   - GitHub: <https://github.com/Blue-Square-Legion/Roller-Girl>
 
 ## Members
