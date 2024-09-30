@@ -28,6 +28,13 @@ Here is a list of projects we have worked on and published to Itch.io:
   - GitHub: <https://github.com/Blue-Square-Legion/Frostblade-Saga>
 - [Roller Girl](https://polysplitter.itch.io/rollergirl)
   - GitHub: <https://github.com/Blue-Square-Legion/Roller-Girl>
+- [Project Tower](https://chiferito.itch.io/project-tower)
+  - GitHub: <https://github.com/Blue-Square-Legion/Tower>
+- Deep Dive
+  - GitHub: <https://github.com/Blue-Square-Legion/DeepDive> 
+- Sub-Surfers:
+  - GitHub: <https://github.com/Blue-Square-Legion/Sub-Surfers>
+
 
 ## Members
 List of Members who are working or have worked in the Blue Square Legion.
