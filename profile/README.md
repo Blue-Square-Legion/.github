@@ -13,34 +13,45 @@
 
 We the Blue Square Legion from [P1 Games](https://p1games.com/). We are a collection of teams working together to empower each other and develop fun games. 
 
-[Organization Miro board](https://miro.com/app/board/uXjVKp0fRwc=/?share_link_id=837323564677)
+Our organization website can be found at: <https://blue-square-legion.github.io/>
 
 ## Projects
 Here is a list of projects we have worked on and published to Itch.io:
 
 - [Keito](https://sam325.itch.io/keito-game)
+  - Itch.io: <https://sam325.itch.io/keito-game>
   - GitHub: <https://github.com/Blue-Square-Legion/Keito-Yarn-Game>
 - [Eco Defender](https://light-with-blocks.itch.io/eco-defender)
+  - Itch.io: <https://light-with-blocks.itch.io/eco-defender>
   - GitHub: <https://github.com/Blue-Square-Legion/Eco-Defender>
 - [Food Jam: Attack of the Munchies](https://jyama.itch.io/food-jam-attack-of-the-munchies)
+  - Itch.io: <https://jyama.itch.io/food-jam-attack-of-the-munchies>
   - GitHub: <https://github.com/Blue-Square-Legion/Munchies>
 - [Frostblade Saga](https://ivinzzzz.itch.io/frostblade-sagaz)
+  - Itch.io: <https://ivinzzzz.itch.io/frostblade-sagaz>
   - GitHub: <https://github.com/Blue-Square-Legion/Frostblade-Saga>
 - [Roller Girl](https://polysplitter.itch.io/rollergirl)
+  - Itch.io: <https://polysplitter.itch.io/rollergirl>
   - GitHub: <https://github.com/Blue-Square-Legion/Roller-Girl>
-- [Project Tower](https://chiferito.itch.io/project-tower)
+- [Runes vs Robots](https://chiferito.itch.io/project-tower)
+  - Itch.io: <https://chiferito.itch.io/project-tower>
   - GitHub: <https://github.com/Blue-Square-Legion/Tower>
-- Deep Dive
-  - GitHub: <https://github.com/Blue-Square-Legion/DeepDive> 
-- Sub-Surfers:
+- [Deep Dive](https://teamnarwhal.itch.io/deep-dive):
+  - Itch.io: <https://teamnarwhal.itch.io/deep-dive>
+  - GitHub: <https://github.com/Blue-Square-Legion/DeepDive>
+- [Sub-Surfers](https://robertchaney.itch.io/sub-surfers):
+  - Itch.io: <https://robertchaney.itch.io/sub-surfers>
   - GitHub: <https://github.com/Blue-Square-Legion/Sub-Surfers>
+- [Inside the Mind of Billy](https://wilsonbl.itch.io/inside-the-mind-of-billy):
+  - Itch.io: <https://wilsonbl.itch.io/inside-the-mind-of-billy>
+  - GitHub: <https://github.com/Brandonwilz/Project-Unicorn>
+- [Pet Parkour](https://teammesa.itch.io/pet-parkour)
+  - Itch.io: <https://teammesa.itch.io/pet-parkour> (_password: teammesa_)
+  - GitHub: <https://github.com/zareenmt/PetParkour>
+- [Orca Overboard](https://hellf1re.itch.io/sub-mariners):
+  - Itch.io: <https://hellf1re.itch.io/sub-mariners>
+  - GitHub: <https://github.com/Blue-Square-Legion/Sub-Surfers>
+- [Ninja Cat](https://wilsonbl.itch.io/ninja-cat-beta):
+  - GitHub: <https://github.com/Brandonwilz/TeamUnicornPetAdventure>
+  - Itch.io: <https://github.com/Brandonwilz/TeamUnicornPetAdventure>
 
-
-## Members
-List of Members who are working or have worked in the Blue Square Legion.
-
-### Active
-- TODO
-
-### Project Alums
-- TODO
