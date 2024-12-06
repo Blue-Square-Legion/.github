@@ -52,6 +52,6 @@ Here is a list of projects we have worked on and published to Itch.io:
   - Itch.io: <https://hellf1re.itch.io/sub-mariners>
   - GitHub: <https://github.com/Blue-Square-Legion/Sub-Surfers>
 - [Ninja Cat](https://wilsonbl.itch.io/ninja-cat-beta):
+  - Itch.io: <https://wilsonbl.itch.io/ninja-cat-beta>
   - GitHub: <https://github.com/Brandonwilz/TeamUnicornPetAdventure>
-  - Itch.io: <https://github.com/Brandonwilz/TeamUnicornPetAdventure>
 
